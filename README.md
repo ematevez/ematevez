@@ -15,51 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **Mi proyecto**
+# **HOLA SOY EMANUEL**
 ## Comentario.
 
 
-<!--Aca es la imagen el href-> es el link donde quieren que valla y el src -> donde esta la imagen que van a poner //width = es el tamaño-->
-<p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer"><img width="20%" src="https://i0.wp.com/edtechreviews.net/wp-content/uploads/2021/12/coderhouse_logo.png?resize=750%2C750&ssl=1" alt="logo del proyecto"></a></p>
+<!--Aca es la imagen el href-> es el link donde quieren que valla y el src -> donde esta la imagen que van a poner //width = es el tamaño
+<p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer"><img width="20%" src="https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez/" alt="logo del proyecto"></a></p>-->
 
 
-##Descripción del proyecto
-- La bicicleta es un vehículo ***amigable*** con el medio ambiente e historicamente ha sido un medio de transporte económico e impulsur para una ***mejor salud*** de las personas. Hoy más que nunca en el contexto global marcado por un sistema económico en decandencia en algunos países se vuelve una solución para minizar costos y aumentar la salud física y mental de las personas.
+##SOBRE MI
+- Soy un emprendedor fanatico de la robotica y la programacion y ***amigable*** con el medio ambiente.
   
-    De ahí que  ***Bike Lovers***  sea promotor central para unir a las pesonas mediante el ciclismo en sus diferentes modalidades: cicloturismo, amateur y profesional.
-    De manera concreta los usuarios podrán conectar con otros ciclistas, con grupos de ciclistas y los eventos. De ahí que los usuarios puedan tener alguno de los siguientes roles: invitado, usuario, o administrador de grupo.
-
-
-##  *Instalación de proyecto* - FRONT END
-
-## *Instalación de proyecto* - Back-End
-### Cómo ejecutar el proyecto
-- Instalar Python
-- Clonar el proyecto con ``` git clone git@github.com:ematevez/proyecto.git```
-- Crear entorno virtual con `Pipenv` or `virtualenv` and activate it.
-- Instalar los requerimientos
-<!--esto es para escribir codigo el que quieran -->
-```sh
-    pip install -r requirements.txt
-```
-- Ejecutar las migraciones
-```sh
-    $python manage.py makemigrations
-    $python manage.py runserver
-```
-- Ejecutar el proyecto
-```sh
-    python manage.py runserver
-```
-## *Presentación de proyecto*
-Escribir algo que quieran
-
-<!--se pueden poner imagenes es bueno-->
-
-
 <br>  
 
-<h2> 🚀 &nbsp;Tecnologías utilizadas</h2>
+<h2> 🚀 &nbsp;Tecnologías que manejo</h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -83,8 +52,5 @@ Escribir algo que quieran
 </p>
 <br>
 
-## Desarrolladores del proyecto:
-
-### BackEnd
 #### | [Emanuel Tevez](https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez/) | 
  [<img src="https://user-images.githubusercontent.com/22551090/206501284-baa34dc7-8118-4bb1-b7f6-b605ee916bb9.png" width=50><br><sub>Emanuel Tevez</sub>](https://github.com/ematevez) 
