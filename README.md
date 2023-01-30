@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ##SOBRE MI
 - Soy un emprendedor fanatico de la robotica y la programacion y ***amigable*** con el medio ambiente.
+- Portfolio: https://portfolio-ematevez.netlify.app/
   
 <br>  
 
@@ -49,6 +50,6 @@ Here are some ideas to get you started:
 
 </p>
 <br>
-Portfolio https://portfolio-ematevez.netlify.app/
+
 #### | [Emanuel Tevez](https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez/) | 
  [<img src="https://user-images.githubusercontent.com/22551090/206501284-baa34dc7-8118-4bb1-b7f6-b605ee916bb9.png" width=50><br><sub>Emanuel Tevez</sub>](https://github.com/ematevez) 
