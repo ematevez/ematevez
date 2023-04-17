@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer"><img width="20%" src="https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez/" alt="logo del proyecto"></a></p>-->
 
 
-##SOBRE MI
+## SOBRE MI
 - Soy un emprendedor fanatico de la robotica y la programacion y ***amigable*** con el medio ambiente.
 - Portfolio: https://portfolio-ematevez.netlify.app/
   
@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 <img src="https://user-images.githubusercontent.com/22551090/197005289-270efd3d-cfa4-4f37-ad00-656d4b264788.png" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=java&theme=light" alt="vscode" width="45" height="45"/>
+  
+
     
 
 </p>
