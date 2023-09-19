@@ -18,6 +18,26 @@ Here are some ideas to get you started:
 # **HOLA SOY EMANUEL**
 ## Comentario.
 
+##  *Instalación de proyecto* 
+### Cómo ejecutar el proyecto
+- Instalar Postgresql
+- Instalar Python
+- Clonar el proyecto con ``` git clone https://github.com/ematevez/agenda-codo-a-codo-tpf```
+- Crear entorno virtual con `Pipenv` or `virtualenv` and activate it.
+- Instalar los requerimientos
+```sh
+    pip install -r requirements.txt
+```
+- Ejecutar las migraciones
+```sh
+    $python manage.py makemigrations
+    $python manage.py runserver
+```
+- Ejecutar el proyecto
+```sh
+    python manage.py runserver
+```
+
 
 <!--Aca es la imagen el href-> es el link donde quieren que valla y el src -> donde esta la imagen que van a poner //width = es el tamaño
 <p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer"><img width="20%" src="https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez/" alt="logo del proyecto"></a></p>-->
